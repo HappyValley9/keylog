@@ -1,0 +1,6 @@
+# 安装到 Wine 内的 Windows Python 中（由 build.sh 自动执行）
+# 命令行版 keylog_demo.py 只需要前两行；GUI 版 keylog_gui.py 还需要后两行
+pynput==1.7.7
+pyinstaller==6.10.0
+pystray==0.19.5
+Pillow==10.4.0
